@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/shivam/Pictures/eos.png"
+let background = "#000000"
+let foreground = "#eddff0"
+let cursor     = "#eddff0"
+
+" Colors
+let color0  = "#000000"
+let color1  = "#570F9D"
+let color2  = "#623ABE"
+let color3  = "#A32AFC"
+let color4  = "#B560DB"
+let color5  = "#BAA5D4"
+let color6  = "#E99FF9"
+let color7  = "#eddff0"
+let color8  = "#a59ca8"
+let color9  = "#570F9D"
+let color10 = "#623ABE"
+let color11 = "#A32AFC"
+let color12 = "#B560DB"
+let color13 = "#BAA5D4"
+let color14 = "#E99FF9"
+let color15 = "#eddff0"

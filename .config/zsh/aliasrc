@@ -1,0 +1,4 @@
+#!/bin/sh
+alias ls="ls --color=auto"
+alias poweroof="cat .config/zsh/jadu.txt"
+alias rebut="cat .config/zsh/jadu2.txt"

@@ -1,0 +1,21 @@
+set $wallpaper /home/shivam/Pictures/eos.png
+
+set $background #000000
+set $foreground #eddff0
+
+set $color0 #000000
+set $color1 #570F9D
+set $color2 #623ABE
+set $color3 #A32AFC
+set $color4 #B560DB
+set $color5 #BAA5D4
+set $color6 #E99FF9
+set $color7 #eddff0
+set $color8 #a59ca8
+set $color9 #570F9D
+set $color10 #623ABE
+set $color11 #A32AFC
+set $color12 #B560DB
+set $color13 #BAA5D4
+set $color14 #E99FF9
+set $color15 #eddff0
