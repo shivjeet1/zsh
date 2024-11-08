@@ -10,7 +10,7 @@ setopt PROMPT_SUBST
 RPS1='%F{$color3}$(__git_ps1 " (%s)")%F'
 
 #History confs.
-HISTFILE=~/.cache/zsh/histfile
+HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=10000
 
